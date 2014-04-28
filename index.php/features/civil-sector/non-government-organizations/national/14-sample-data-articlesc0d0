@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>National</title>
+		<description></description>
+		<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/14-sample-data-articles</link>
+		<lastBuildDate>Mon, 28 Apr 2014 15:48:38 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/14-sample-data-articles?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Site Map</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/14-sample-data-articles/42-site-map</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/14-sample-data-articles/42-site-map</guid>
+			<description><![CDATA[<div class="feed-description"><p>{loadposition sitemapload}</p><p><em>By putting all of your content into nested categories you can give users and search engines access to everything using a menu.</em></p></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Sample Data-Articles</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

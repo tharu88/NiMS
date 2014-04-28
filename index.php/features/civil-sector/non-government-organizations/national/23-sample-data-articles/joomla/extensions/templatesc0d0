@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>National</title>
+		<description></description>
+		<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/23-sample-data-articles/joomla/extensions/templates</link>
+		<lastBuildDate>Mon, 28 Apr 2014 15:53:21 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/23-sample-data-articles/joomla/extensions/templates?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Typography</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/23-sample-data-articles/joomla/extensions/templates/49-typography</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/23-sample-data-articles/joomla/extensions/templates/49-typography</guid>
+			<description><![CDATA[<div class="feed-description"><h1>H1 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz</h1><h2>H2 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz</h2><h3>H3 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz</h3><h4>H4 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz</h4><h5>H5 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz</h5><h6>H6 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz</h6><p>P The quick brown fox ran over the lazy dog. THE QUICK BROWN FOX RAN OVER THE LAZY DOG.</p><ul><li>Item</li><li>Item</li><li>Item<br /> <ul><li>Item</li><li>Item</li><li>Item<br /> <ul><li>Item</li><li>Item</li><li>Item</li></ul></li></ul></li></ul><ol><li>tem</li><li>Item</li><li>Item<br /> <ol><li>Item</li><li>Item</li><li>Item<br /><ol><li>Item</li><li>Item</li><li>Item</li></ol></li></ol> </li></ol></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Templates</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

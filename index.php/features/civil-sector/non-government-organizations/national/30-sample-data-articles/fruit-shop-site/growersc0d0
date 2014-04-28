@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>National</title>
+		<description></description>
+		<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/30-sample-data-articles/fruit-shop-site/growers</link>
+		<lastBuildDate>Mon, 28 Apr 2014 15:58:26 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/30-sample-data-articles/fruit-shop-site/growers?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Civil Sector</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector</guid>
+			<description><![CDATA[<div class="feed-description"><p><span style="font-size: 14pt;">1. Sewalanka</span></p>
+<p><span style="font-size: 14pt;">2. Sarwodaya</span></p>
+<p><span style="font-size: 14pt;">3. Plan Sri Lanka</span></p></div>]]></description>
+			<author>ranmalprasad@gmail.com (Fruit Shop Webmaster)</author>
+			<category>Growers</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Q &amp; A</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/30-sample-data-articles/fruit-shop-site/growers/58-q-a</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/30-sample-data-articles/fruit-shop-site/growers/58-q-a</guid>
+			<description><![CDATA[<div class="feed-description"><p><span style="color: #000000; font-family: 'Century Gothic', sans-serif; font-size: 10pt; line-height: 19.49652862548828px;">&nbsp;Nutrition related questions &amp; Answers..<br /></span></p>
+<p><span style="color: #000000; font-family: 'Century Gothic', sans-serif; font-size: 10pt; line-height: 19.49652862548828px;">&nbsp;</span></p>
+<p><span style="color: #000000; font-family: 'Century Gothic', sans-serif; font-size: 10pt; line-height: 19.49652862548828px;">&nbsp;</span></p>
+<p><span style="color: #000000; font-family: 'Century Gothic', sans-serif; font-size: 10pt; line-height: 19.49652862548828px;">&nbsp;</span></p>
+<p><span style="color: #000000; font-family: 'Century Gothic', sans-serif; font-size: 10pt; line-height: 19.49652862548828px;">&nbsp;</span></p>
+<p><span style="color: #000000; font-family: 'Century Gothic', sans-serif; font-size: 10pt; line-height: 19.49652862548828px;">&nbsp;</span></p></div>]]></description>
+			<author>ranmalprasad@gmail.com (Fruit Shop Webmaster)</author>
+			<category>Growers</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

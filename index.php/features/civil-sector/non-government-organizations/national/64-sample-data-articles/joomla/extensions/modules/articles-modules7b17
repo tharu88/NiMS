@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">National</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk"/>
+	<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules</id>
+	<updated>2014-04-28T15:58:34+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Contact Us</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules/2-contact-us"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules/2-contact-us</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Address: National Nutrition Secretariat&lt;br /&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;              Presidential Secretariat&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;              Colombo 01&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;              Sri Lanka&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;Tp :       0112354354/0114354354 EXT 3192&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;Fax:       0112399418&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Email:    srilankanutrition@gmail.com&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Address: National Nutrition Secretariat&lt;br /&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;              Presidential Secretariat&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;              Colombo 01&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;              Sri Lanka&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;Tp :       0112354354/0114354354 EXT 3192&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;Fax:       0112399418&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Email:    srilankanutrition@gmail.com&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Content Modules" />
+	</entry>
+	<entry>
+		<title>Article Categories Module</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules/3-article-categories-module"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules/3-article-categories-module</id>
+		<author>
+			<name>Super User</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module displays a list of categories from one parent category. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Articles_Categories&quot; title=&quot;Categories Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule articles_categories,Articles Categories}&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module displays a list of categories from one parent category. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Articles_Categories&quot; title=&quot;Categories Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule articles_categories,Articles Categories}&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Content Modules" />
+	</entry>
+	<entry>
+		<title>Articles Category Module</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules/4-articles-category-module"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules/4-articles-category-module</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module allows you to display the articles in a specific category. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Articles_Category&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule articles_category,Articles Category}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module allows you to display the articles in a specific category. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Articles_Category&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule articles_category,Articles Category}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Content Modules" />
+	</entry>
+	<entry>
+		<title>Latest Articles Module</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules/27-latest-articles-module"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules/27-latest-articles-module</id>
+		<author>
+			<name>Super User</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module shows a list of the most recently published and current Articles. Some that are shown may have expired even though they are the most recent. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Latest_News&quot; title=&quot;Latest Articles&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule articles_latest,Latest News}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module shows a list of the most recently published and current Articles. Some that are shown may have expired even though they are the most recent. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Latest_News&quot; title=&quot;Latest Articles&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule articles_latest,Latest News}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Content Modules" />
+	</entry>
+	<entry>
+		<title>Most Read Content</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules/30-most-read-content"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules/30-most-read-content</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module shows a list of the currently published Articles which have the highest number of page views. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Most_Read&quot; title=&quot;Most Read Content&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule articles_popular,Articles Most Read}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module shows a list of the currently published Articles which have the highest number of page views. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Most_Read&quot; title=&quot;Most Read Content&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule articles_popular,Articles Most Read}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Content Modules" />
+	</entry>
+	<entry>
+		<title>News Flash</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules/31-news-flash"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules/31-news-flash</id>
+		<author>
+			<name>Super User</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Displays a set number of articles from a category based on date or random selection. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Articles_Newsflash&quot; title=&quot;News Flash Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule articles_news,News Flash}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Displays a set number of articles from a category based on date or random selection. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Articles_Newsflash&quot; title=&quot;News Flash Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule articles_news,News Flash}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Content Modules" />
+	</entry>
+	<entry>
+		<title>Related Items Module</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules/37-related-items-module"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/64-sample-data-articles/joomla/extensions/modules/articles-modules/37-related-items-module</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module displays other Articles that are related to the one currently being viewed. These relations are established by the Meta Keywords.  All the keywords of the current Article are searched against all the keywords of all other published articles. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Articles_Related&quot; title=&quot;Related Items Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule related_items,Articles Related Items}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module displays other Articles that are related to the one currently being viewed. These relations are established by the Meta Keywords.  All the keywords of the current Article are searched against all the keywords of all other published articles. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Articles_Related&quot; title=&quot;Related Items Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule related_items,Articles Related Items}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Content Modules" />
+	</entry>
+</feed>

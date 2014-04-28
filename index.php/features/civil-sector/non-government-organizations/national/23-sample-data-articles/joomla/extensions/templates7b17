@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">National</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk"/>
+	<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/23-sample-data-articles/joomla/extensions/templates</id>
+	<updated>2014-04-28T15:53:21+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/23-sample-data-articles/joomla/extensions/templates?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Typography</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/23-sample-data-articles/joomla/extensions/templates/49-typography"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/23-sample-data-articles/joomla/extensions/templates/49-typography</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;H1 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz&lt;/h1&gt;&lt;h2&gt;H2 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz&lt;/h2&gt;&lt;h3&gt;H3 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz&lt;/h3&gt;&lt;h4&gt;H4 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz&lt;/h4&gt;&lt;h5&gt;H5 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz&lt;/h5&gt;&lt;h6&gt;H6 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz&lt;/h6&gt;&lt;p&gt;P The quick brown fox ran over the lazy dog. THE QUICK BROWN FOX RAN OVER THE LAZY DOG.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;br /&gt; &lt;ul&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;br /&gt; &lt;ul&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;tem&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;br /&gt; &lt;ol&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;br /&gt;&lt;ol&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt; &lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;H1 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz&lt;/h1&gt;&lt;h2&gt;H2 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz&lt;/h2&gt;&lt;h3&gt;H3 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz&lt;/h3&gt;&lt;h4&gt;H4 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz&lt;/h4&gt;&lt;h5&gt;H5 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz&lt;/h5&gt;&lt;h6&gt;H6 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmonpqrstuvwzyz&lt;/h6&gt;&lt;p&gt;P The quick brown fox ran over the lazy dog. THE QUICK BROWN FOX RAN OVER THE LAZY DOG.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;br /&gt; &lt;ul&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;br /&gt; &lt;ul&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;tem&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;br /&gt; &lt;ol&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;br /&gt;&lt;ol&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;li&gt;Item&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt; &lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content>
+		<category term="Templates" />
+	</entry>
+</feed>

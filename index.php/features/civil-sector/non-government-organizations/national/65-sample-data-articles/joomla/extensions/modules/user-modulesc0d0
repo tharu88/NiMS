@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>National</title>
+		<description></description>
+		<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/65-sample-data-articles/joomla/extensions/modules/user-modules</link>
+		<lastBuildDate>Mon, 28 Apr 2014 15:58:42 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/65-sample-data-articles/joomla/extensions/modules/user-modules?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Login Module</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/65-sample-data-articles/joomla/extensions/modules/user-modules/28-login-module</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/65-sample-data-articles/joomla/extensions/modules/user-modules/28-login-module</guid>
+			<description><![CDATA[<div class="feed-description"><p>This module displays a username and password login form. It also displays a link to retrieve a forgotten password. If user registration is enabled (in the Global Configuration settings), another link will be shown to enable self-registration for users. <a href="http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Extensions_Module_Manager_Login" title="Login">Help</a></p>
+<div class="sample-module">{loadmodule login,login}</div></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>User Modules</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Who's Online</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/65-sample-data-articles/joomla/extensions/modules/user-modules/56-whos-online</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/65-sample-data-articles/joomla/extensions/modules/user-modules/56-whos-online</guid>
+			<description><![CDATA[<div class="feed-description"><p>The Who's Online Module displays the number of Anonymous Users (e.g. Guests) and Registered Users (ones logged-in) that are currently accessing the Web site. <a href="http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Extensions_Module_Manager_Who_Online" title="Who's Online">Help</a></p>
+<div class="sample-module">{loadmodule whosonline,Who's Online}</div></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>User Modules</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Latest Users Module</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/65-sample-data-articles/joomla/extensions/modules/user-modules/66-latest-users-module</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/65-sample-data-articles/joomla/extensions/modules/user-modules/66-latest-users-module</guid>
+			<description><![CDATA[<div class="feed-description"><p>This module displays the latest registered users. <a href="http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Extensions_Module_Manager_Latest_Users">Help</a></p>
+<div class="sample-module">{loadmodule users_latest,Users Latest}</div></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>User Modules</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

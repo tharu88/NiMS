@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text"></title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk"/>
+	<id>http://www.nutrition.gov.lk/index.php/component/k2/itemlist/user/0-2014-04-28-16-11-47</id>
+	<updated>2014-04-28T16:12:57+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.nutrition.gov.lk/index.php/component/k2/itemlist/user/0-2014-04-28-16-11-47?format=feed&amp;type=atom"/>
+	<entry>
+		<title>About the Company</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/29-about-the-company"/>
+		<published>2012-06-20T03:11:30+00:00</published>
+		<updated>2012-06-20T03:11:30+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/29-about-the-company</id>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/demo/about1.jpg&quot; border=&quot;0&quot; alt=&quot;Demo Picture&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/demo/about1.jpg&quot; border=&quot;0&quot; alt=&quot;Demo Picture&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Samurdhi" />
+	</entry>
+	<entry>
+		<title>Word From The Founder</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/27-word-from-the-founder"/>
+		<published>2012-06-20T03:09:03+00:00</published>
+		<updated>2012-06-20T03:09:03+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/27-word-from-the-founder</id>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;blockquote&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/blockquote&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;blockquote&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/blockquote&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Samurdhi" />
+	</entry>
+	<entry>
+		<title>Content Demo 1.2.5</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/21-content-demo-125"/>
+		<published>2012-06-20T03:01:17+00:00</published>
+		<updated>2012-06-20T03:01:17+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/21-content-demo-125</id>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/9b2c4b44fb86522964124ed80d03c5e8_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/9b2c4b44fb86522964124ed80d03c5e8_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Supplementary feeding" />
+	</entry>
+	<entry>
+		<title>Content Demo 1.2.4</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/20-content-demo-124"/>
+		<published>2012-06-20T03:00:07+00:00</published>
+		<updated>2012-06-20T03:00:07+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/20-content-demo-124</id>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/c889234799e865bbe90cee71f6cd2e53_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/c889234799e865bbe90cee71f6cd2e53_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Supplementary feeding" />
+	</entry>
+	<entry>
+		<title>Content Demo 1.2.3</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/19-content-demo-123"/>
+		<published>2012-06-20T02:58:54+00:00</published>
+		<updated>2012-06-20T02:58:54+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/19-content-demo-123</id>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/f4b6dca0e2911082f0eb6e1df1a0e11d_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/f4b6dca0e2911082f0eb6e1df1a0e11d_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Supplementary feeding" />
+	</entry>
+	<entry>
+		<title>Content Demo 1.2.2</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/18-content-demo-122"/>
+		<published>2012-06-20T02:58:11+00:00</published>
+		<updated>2012-06-20T02:58:11+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/18-content-demo-122</id>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/4965657af186b9092c7a96976ffe881c_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/4965657af186b9092c7a96976ffe881c_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Supplementary feeding" />
+	</entry>
+	<entry>
+		<title>Content Demo 1.2.1</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/17-content-demo-121"/>
+		<published>2012-06-20T02:57:24+00:00</published>
+		<updated>2012-06-20T02:57:24+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/17-content-demo-121</id>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/077ab55046ce80eaf9a3ddea999597ca_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/077ab55046ce80eaf9a3ddea999597ca_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Supplementary feeding" />
+	</entry>
+	<entry>
+		<title>Content Demo 2.1.2</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/14-content-demo-212"/>
+		<published>2012-06-20T02:36:08+00:00</published>
+		<updated>2012-06-20T02:36:08+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/14-content-demo-212</id>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/fd8b0f77d767f1f6640afba6916ff67c_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/fd8b0f77d767f1f6640afba6916ff67c_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Complementary feeding" />
+	</entry>
+	<entry>
+		<title>Content Demo 2.1.1</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/13-content-demo-211"/>
+		<published>2012-06-20T02:35:03+00:00</published>
+		<updated>2012-06-20T02:35:03+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/13-content-demo-211</id>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/48ee1e8a0a8f50dce4f8cb9ab418e211_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/48ee1e8a0a8f50dce4f8cb9ab418e211_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Complementary feeding" />
+	</entry>
+	<entry>
+		<title>Content Demo 1.1.5</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/12-content-demo-115"/>
+		<published>2012-06-20T02:29:48+00:00</published>
+		<updated>2012-06-20T02:29:48+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/12-content-demo-115</id>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/3899dfe821816fbcb3db3e3b23f81585_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/3899dfe821816fbcb3db3e3b23f81585_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Breast feeding" />
+	</entry>
+</feed>

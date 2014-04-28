@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Breast feeding</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk"/>
+	<id>http://www.nutrition.gov.lk/index.php/component/k2/itemlist/category/4-breast-feeding</id>
+	<updated>2014-04-28T15:38:47+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.nutrition.gov.lk/index.php/component/k2/itemlist/category/4-breast-feeding?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Content Demo 1.1.5</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/12-content-demo-115"/>
+		<published>2012-06-20T02:29:48+00:00</published>
+		<updated>2012-06-20T02:29:48+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/12-content-demo-115</id>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/3899dfe821816fbcb3db3e3b23f81585_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/3899dfe821816fbcb3db3e3b23f81585_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Breast feeding" />
+	</entry>
+	<entry>
+		<title>Content Demo 1.1.4</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/11-content-demo-114"/>
+		<published>2012-06-20T02:29:10+00:00</published>
+		<updated>2012-06-20T02:29:10+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/11-content-demo-114</id>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/c82cc4e14a1d2c8c8ffff9840d24b558_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/c82cc4e14a1d2c8c8ffff9840d24b558_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Breast feeding" />
+	</entry>
+	<entry>
+		<title>Content Demo 1.1.3</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/10-content-demo-113"/>
+		<published>2012-06-20T02:26:52+00:00</published>
+		<updated>2012-06-20T02:26:52+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/10-content-demo-113</id>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/e31ace2a15a7c70645ad83df9ecd43b0_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/e31ace2a15a7c70645ad83df9ecd43b0_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Breast feeding" />
+	</entry>
+	<entry>
+		<title>Content Demo 1.1.2</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/9-content-demo-112"/>
+		<published>2012-06-20T02:26:18+00:00</published>
+		<updated>2012-06-20T02:26:18+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/9-content-demo-112</id>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/d61d44254608dd06ccdd2ff02982d14d_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/d61d44254608dd06ccdd2ff02982d14d_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Breast feeding" />
+	</entry>
+	<entry>
+		<title>Content Demo 1.1.1</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/component/k2/item/8-content-demo-111"/>
+		<published>2012-06-20T02:23:25+00:00</published>
+		<updated>2012-06-20T02:23:25+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/component/k2/item/8-content-demo-111</id>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/184b7cb84d7b456c96a0bdfbbeaa5f14_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://www.nutrition.gov.lk/media/k2/items/cache/184b7cb84d7b456c96a0bdfbbeaa5f14_S.jpg&quot; alt=&quot;Lorem ipsum dolor sit amet, consectetur adipisicing elit&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Breast feeding" />
+	</entry>
+</feed>

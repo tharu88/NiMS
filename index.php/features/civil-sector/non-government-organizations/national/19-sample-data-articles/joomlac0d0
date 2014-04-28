@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>National</title>
+		<description></description>
+		<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla</link>
+		<lastBuildDate>Mon, 28 Apr 2014 15:39:09 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Professionals</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/35-professionals</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/35-professionals</guid>
+			<description><![CDATA[<div class="feed-description"><p>Joomla! 2.5 continues development of the Joomla Framework and CMS as a powerful and flexible way to bring your vision of the web to reality. With the administrator now fully MVC, the ability to control its look and the management of extensions is now complete.</p>
+</div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Joomla!</category>
+			<pubDate>Sun, 09 Jan 2011 11:11:13 +0000</pubDate>
+		</item>
+		<item>
+			<title>Beginners</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national</guid>
+			<description><![CDATA[<div class="feed-description"><p>If this is your first Joomla! site or your first web site, you have come to the right place. Joomla will help you get your website up and running quickly and easily.</p>
+<p>Start off using your site by logging in using the administrator account you created when you installed Joomla.</p>
+</div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Joomla!</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Getting Help</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/21-getting-help</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/21-getting-help</guid>
+			<description><![CDATA[<div class="feed-description"><p><img class="image-left" src="http://www.nutrition.gov.lk/administrator/templates/hathor/images/header/icon-48-help_header.png" border="0" /> There are lots of places you can get help with Joomla!. In many places in your site administrator you will see the help icon. Click on this for more information about the options and functions of items on your screen. Other places to get help are:</p>
+<ul>
+<li><a href="http://forum.joomla.org">Support Forums</a></li>
+<li><a href="http://docs.joomla.org">Documentation</a></li>
+<li><a href="http://resources.joomla.org">Professionals</a></li>
+<li><a href="http://shop.joomla.org/amazoncom-bookstores.html">Books</a></li>
+</ul></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Joomla!</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Getting Started</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/22-getting-started</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/22-getting-started</guid>
+			<description><![CDATA[<div class="feed-description"><p>It's easy to get started creating your website. Knowing some of the basics will help.</p>
+<h3>What is a Content Management System?</h3>
+<p>A content management system is software that allows you to create and manage webpages easily by separating the creation of your content from the mechanics required to present it on the web.</p>
+<p>In this site, the content is stored in a <em>database</em>. The look and feel are created by a <em>template</em>. The Joomla! software brings together the template and the content to create web pages.</p>
+<h3>Site and Administrator</h3>
+<p>Your site actually has two separate sites. The site (also called the front end) is what visitors to your site will see. The administrator (also called the back end) is only used by people managing your site. You can access the administrator by clicking the "Site Administrator" link on the "This Site" menu or by adding /administrator to the end of you domain name.</p>
+<p>Log in to the administrator using the username and password created during the installation of Joomla.</p>
+<h3>Logging in</h3>
+<p>To login to the front end of your site use the login form or the login menu link on the "This Site" menu. Use the user name and password that were created as part of the installation process. Once logged-in you will be able to create and edit articles.</p>
+<p>In managing your site, you will be able to create content that only logged-in users are able to see.</p>
+<h3>Creating an article</h3>
+<p>Once you are logged-in, a new menu will be visible. To create a new article, click on the "submit article" link on that menu.</p>
+<p>The new article interface gives you a lot of options, but all you need to do is add a title and put something in the content area. To make it easy to find, set the state to published and put it in the Joomla category.</p>
+<div>You can edit an existing article by clicking on the edit icon (this only displays to users who have the right to edit).</div>
+<h3>Learn more</h3>
+<p>There is much more to learn about how to use Joomla! to create the web site you envision. You can learn much more at the <a href="http://docs.joomla.org">Joomla! documentation site</a> and on the<a href="http://forum.joomla.org"> Joomla! forums</a>.</p></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Joomla!</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla!</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/24-joomla</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/24-joomla</guid>
+			<description><![CDATA[<div class="feed-description"><p>Congratulations! You have a Joomla site! Joomla makes it easy to build a website just the way you want it and keep it simple to update and maintain.</p>
+<p>Joomla is a flexible and powerful platform, whether you are building a small site for yourself or a huge site with hundreds of thousands of visitors. Joomla is open source, which means you can make it work just the way you want it to.</p></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Joomla!</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Options</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/32-options</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/32-options</guid>
+			<description><![CDATA[<div class="feed-description"><p>As you make your Joomla! site you will control the details of the display using <em>options</em> also referred to as <em>parameter</em><strong>s</strong>. Options control everything from whether the author's name is displayed to who can view what to the number of items shown on a list.</p>
+<p>Default options for each component are changed using the Options button on the component toolbar.</p>
+<p>Options can also be set on an individual item, such as an article or contact and in menu links.</p>
+<p>If you are happy with how your site looks, it is fine to leave all of the options set to the defaults that were created when your site was installed. As you become more experienced with Joomla you will use options more.</p>
+<p> </p></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Joomla!</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Sample Sites</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/38-sample-sites</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/38-sample-sites</guid>
+			<description><![CDATA[<div class="feed-description"><p>Your installation includes sample data, designed to show you some of the options you have for building your website. In addition to information about Joomla! there are two sample "sites within a site" designed to help you get started with building your own site.</p>
+<p>The first site is a simple site about <a href="http://www.nutrition.gov.lk/index.php?Itemid=243">Australian Parks</a>. It shows how you can quickly and easily build a personal site with just the building blocks that are part of Joomla. It includes a personal blog, weblinks, and a very simple image gallery.</p>
+<p>The second site is slightly more complex and represents what you might do if you are building a site for a small business, in this case a <a href="http://www.nutrition.gov.lk/index.php/welcome.html"></a><a href="http://www.nutrition.gov.lk/index.php?Itemid=429">Fruit Shop</a>.</p>
+<p>In building either style site, or something completely different, you will probably want to add <a href="http://extensions.joomla.org">extensions</a> and either create or purchase your own template. Many Joomla users start by modifying the <a href="http://docs.joomla.org/How_do_you_modify_a_template%3F">templates</a> that come with the core distribution so that they include special images and other design elements that relate to their site's focus.</p></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Joomla!</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>The Joomla! Community</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/47-the-joomla-community</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/47-the-joomla-community</guid>
+			<description><![CDATA[<div class="feed-description"><p>Joomla means All Together, and it is a community of people all working and having fun together that makes Joomla possible. Thousands of people each year participate in the Joomla community, and we hope you will be one of them.</p>
+<p>People with all kinds of skills, of all skill levels and from around the world are welcome to join in. Participate in the <a href="http://joomla.org">Joomla.org</a> family of websites (the<a href="http://forum.joomla.org"> forum </a>is a great place to start). Come to a <a href="http://community.joomla.org/events.html">Joomla! event</a>. Join or start a <a href="http://community.joomla.org/user-groups.html">Joomla! Users Group</a>. Whether you are a developer, site administrator, designer, end user or fan, there are ways for you to participate and contribute.</p></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Joomla!</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>The Joomla! Project</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/48-the-joomla-project</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/48-the-joomla-project</guid>
+			<description><![CDATA[<div class="feed-description"><p>The Joomla Project consists of all of the people who make and support the Joomla Web Platform and Content Management System.</p>
+<p>Our mission is to provide a flexible platform for digital publishing and collaboration.</p>
+<p>The core values are:</p>
+<ul>
+<li>Freedom</li>
+<li>Equality</li>
+<li>Trust</li>
+<li>Community</li>
+<li>Collaboration</li>
+<li>Usability</li>
+</ul>
+<p>In our vision, we see:</p>
+<ul>
+<li>People publishing and collaborating in their communities and around the world</li>
+<li>Software that is free, secure, and high-quality</li>
+<li>A community that is enjoyable and rewarding to participate in</li>
+<li>People around the world using their preferred languages</li>
+<li>A project that acts autonomously</li>
+<li>A project that is socially responsible</li>
+<li>A project dedicated to maintaining the trust of its users</li>
+</ul>
+<p>There are millions of users around the world and thousands of people who contribute to the Joomla Project. They work in three main groups: the Production Working Group, responsible for everything that goes into software and documentation; the Community Working Group, responsible for creating a nurturing the community; and Open Source Matters, the non profit organization responsible for managing legal, financial and organizational issues.</p>
+<p>Joomla is a free and open source project, which uses the GNU General Public License version 2 or later.</p></div>]]></description>
+			<author>ranmalprasad@gmail.com (Super User)</author>
+			<category>Joomla!</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Upgraders</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/50-upgraders</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/19-sample-data-articles/joomla/50-upgraders</guid>
+			<description><![CDATA[<div class="feed-description"><p>If you are an experienced Joomla! 1.5 user, this Joomla site will seem very familiar. There are new templates and improved user interfaces, but most functionality is the same. The biggest changes are improved access control (ACL) and nested categories. This release of Joomla has strong continuity with Joomla! 1.7 while adding enhancements.</p>
+</div>]]></description>
+			<author>ranmalprasad@gmail.com (Super User)</author>
+			<category>Joomla!</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

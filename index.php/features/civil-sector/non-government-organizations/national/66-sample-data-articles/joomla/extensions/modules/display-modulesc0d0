@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>National</title>
+		<description></description>
+		<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules</link>
+		<lastBuildDate>Mon, 28 Apr 2014 15:58:49 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Ministries</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/ministries</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/ministries</guid>
+			<description><![CDATA[<div class="feed-description"><p><span style="color: #000000;">1. <a href="http://www.health.gov.lk/" target="_blank">MINISTRY OF HEALTH (MOH)</a></span></p>
+<p><span style="color: #000000;">2. <a href="http://www.agrimin.gov.lk/" target="_blank">MINISTRY OF AGRICULTURE (MOA)</a></span></p>
+<p><span style="color: #000000;">3. <a href="http://www.livestock.gov.lk" target="_blank">MINISTRY OF LIVESTOCK AND RURAL COMMUNITY DEVELOPMENT (MOL&amp;RCD)</a></span></p>
+<p><span style="color: #000000;">4. <a href="http://www.fisheries.gov.lk" target="_blank">MINISTRY OF FISHERIES AND AQUATIC RESOURCES (MOFAR)</a></span></p>
+<p><span style="color: #000000;">5. <a href="http://www.med.gov.lk/" target="_blank">MINISTRY OF ECONOMIC DEVELOPMENT (MOED)</a></span></p>
+<p><span style="color: #000000;">6. <a href="http://www.moe.gov.lk/" target="_blank">MINISTRY OF EDUCATION (MOE)</a></span></p>
+<p><span style="color: #000000;">7. <a href="http://www.mwsd.gov.lk/" target="_blank">MINISTRY OF WATER SUPPLY AND DRAINAGE (MOWS&amp;D)</a></span></p>
+<p><span style="color: #000000;">8. <a href="http://www.pclg.gov.lk/" target="_blank">MINISTRY OF LOCAL GOVERNMENT AND PROVINCIAL COUNCILS (MOLG&amp;PC)</a></span></p>
+<p><span style="color: #000000;">9. <a href="http://www.media.gov.lk/" target="_blank">MINISTRY OF MASS MEDIA (MOMM)</a></span></p>
+<p><span style="color: #000000;">10. <a href="http://www.treasury.gov.lk/" target="_blank">MINISTRY OF FINANCE AND PLANNING (MOFP)</a></span></p>
+<p><span style="color: #000000;">11. <a href="http://www.childwomenmin.gov.lk/" target="_blank">MINISTRY OF CHILD DEVELOPMENT AND WOMEN’S AFFAIRS (MOCDWA)</a></span></p>
+<p><span style="color: #000000;">12. <a href="http://www.pubad.gov.lk/" target="_blank">MINISTRY OF PUBLIC ADMINISTRATION (MOPA)</a></span></p>
+<p><span style="color: #000000;">13. <a href="http://www.motr.gov.lk/" target="_blank">MINISTRY OF TECHNOLOGY AND RESEARCH (MOTR)</a></span></p>
+<p><span style="color: #000000;">14. <a href="http://www.trade.gov.lk/" target="_blank">MINISTRY OF TRADE, MARKETING DEVELOPMENT, CO-OPERATIVES AND CONSUMER SERVICES (MOTMDCOCS)</a></span></p>
+<p><span style="color: #000000;">15. <a href="http://www.labourmin.gov.lk/" target="_blank">MINISTRY OF LABOUR RELATIONS AND MANPOWER (MOLR&amp;M)</a></span></p>
+<p><span style="color: #000000;">16. <a href="http://www.plantationindustries.gov.lk/" target="_blank">MINISTRY OF PLANTATION INDUSTRIES (MOPI)</a></span></p>
+<p>&nbsp;</p></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Display Modules</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Custom HTML Module</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/12-custom-html-module</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/12-custom-html-module</guid>
+			<description><![CDATA[<div class="feed-description"><p>This module allows you to create your own HTML Module using a WYSIWYG editor. <a href="http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Extensions_Module_Manager_Custom_HTML" title="Custom HTML Module">Help</a></p>
+<div class="sample-module">{loadmodule custom,Custom HTML}</div></div>]]></description>
+			<author>ranmalprasad@gmail.com (Super User)</author>
+			<category>Display Modules</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Feed Display</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/16-feed-display</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/16-feed-display</guid>
+			<description><![CDATA[<div class="feed-description"><p>This module allows the displaying of a syndicated feed. <a href="http://docs.joomla.org/Help15:Screen.modulessite.edit.15#Feed_Display" title="Feed Display Module">Help</a></p>
+<div class="sample-module">{loadmodule feed,Feed Display}</div></div>]]></description>
+			<author>ranmalprasad@gmail.com (Super User)</author>
+			<category>Display Modules</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Footer Module</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/19-footer-module</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/19-footer-module</guid>
+			<description><![CDATA[<div class="feed-description"><p>This module shows the Joomla! copyright information. <a href="http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Extensions_Module_Manager_Footer" title="Footer Module">Help</a></p>
+<div class="sample-module">{loadmodule footer,Footer}</div></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Display Modules</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Random Image Module</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/36-random-image-module</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/36-random-image-module</guid>
+			<description><![CDATA[<div class="feed-description"><p>This module displays a random image from your chosen image directory. <a href="http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Extensions_Module_Manager_Random_Image" title="Random Image Module">Help</a></p>
+<div class="sample-module">{loadmodule random_image,Random Image}</div></div>]]></description>
+			<author>ranmalprasad@gmail.com (Super User)</author>
+			<category>Display Modules</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Weblinks Module</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/55-weblinks-module</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/55-weblinks-module</guid>
+			<description><![CDATA[<div class="feed-description"><p>This module displays the list of weblinks in a category. <a href="http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Extensions_Module_Manager_Weblinks" title="Weblinks Module">Help</a></p>
+<div class="sample-module">{loadmodule weblinks,Weblinks}</div></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Display Modules</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>National</title>
+		<description></description>
+		<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/75-sample-data-articles/joomla/extensions/modules/navigation-modules</link>
+		<lastBuildDate>Mon, 28 Apr 2014 15:59:05 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/75-sample-data-articles/joomla/extensions/modules/navigation-modules?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Menu Module</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/75-sample-data-articles/joomla/extensions/modules/navigation-modules/29-menu-module</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/75-sample-data-articles/joomla/extensions/modules/navigation-modules/29-menu-module</guid>
+			<description><![CDATA[<div class="feed-description"><p>This module displays a menu on the site (frontend).  Menus can be displayed in a wide variety of ways by using the menu options and css menu styles. <a href="http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Extensions_Module_Manager_Menu">Help</a></p>
+<div class="sample-module">{loadmodule mod_menu,Menu Example}</div></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Navigation Modules</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Breadcrumbs Module</title>
+			<link>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/75-sample-data-articles/joomla/extensions/modules/navigation-modules/61-breadcrumbs-module</link>
+			<guid isPermaLink="true">http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/75-sample-data-articles/joomla/extensions/modules/navigation-modules/61-breadcrumbs-module</guid>
+			<description><![CDATA[<div class="feed-description"><p>Breadcrumbs provide a pathway for users to navigate through the site. <a href="http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Extensions_Module_Manager_Breadcrumbs" title="Breacrumbs Module">Help</a></p>
+<div class="sample-module">{loadmodule breadcrumbs,breadcrumbs}</div></div>]]></description>
+			<author>ranmalprasad@gmail.com (Joomla!)</author>
+			<category>Navigation Modules</category>
+			<pubDate>Fri, 31 Dec 2010 18:30:01 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

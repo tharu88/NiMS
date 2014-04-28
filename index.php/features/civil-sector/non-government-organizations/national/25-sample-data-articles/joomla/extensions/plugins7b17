@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">National</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk"/>
+	<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins</id>
+	<updated>2014-04-28T15:53:24+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Quick Icons</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/69-quick-icons"/>
+		<published>2012-01-16T21:57:39+00:00</published>
+		<updated>2012-01-16T21:57:39+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/69-quick-icons</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt; The Quick Icon plugin group is used to provide notification that updates to Joomla! or installed extensions are available and should be applied. These notifications display on your administrator control panel, which is the page you see when you first log in to your site administrator.&lt;/p&gt;
+&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quick icon - Joomla! extensions updates notification &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit&quot;&gt;Help&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Quick icon - Joomla! update notification &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt; The Quick Icon plugin group is used to provide notification that updates to Joomla! or installed extensions are available and should be applied. These notifications display on your administrator control panel, which is the page you see when you first log in to your site administrator.&lt;/p&gt;
+&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quick icon - Joomla! extensions updates notification &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit&quot;&gt;Help&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Quick icon - Joomla! update notification &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Plugins" />
+	</entry>
+	<entry>
+		<title>Captcha</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/68-captcha"/>
+		<published>2012-01-16T21:50:45+00:00</published>
+		<updated>2012-01-16T21:50:45+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/68-captcha</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The Captcha plugins are used to prevent spam submissions on your forms such as registration, contact and login. You basic installation of Joomla includes one Captcha plugin which leverages the ReCaptcha® service but you may install other plugins connecting to different Captcha systems.&lt;/p&gt;
+&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ReCaptcha &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit&quot;&gt;help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note: ReCaptcha is a the trademark of Google Inc. and is an independent product not associated with or endorsed by the Joomla Project. You will need to register and agree to the Terms of Service at Recaptcha.net to use this plugin. Complete instructions are available if you edit the ReCaptcha plugin in the Plugin Manager.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The Captcha plugins are used to prevent spam submissions on your forms such as registration, contact and login. You basic installation of Joomla includes one Captcha plugin which leverages the ReCaptcha® service but you may install other plugins connecting to different Captcha systems.&lt;/p&gt;
+&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ReCaptcha &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit&quot;&gt;help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note: ReCaptcha is a the trademark of Google Inc. and is an independent product not associated with or endorsed by the Joomla Project. You will need to register and agree to the Terms of Service at Recaptcha.net to use this plugin. Complete instructions are available if you edit the ReCaptcha plugin in the Plugin Manager.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Plugins" />
+	</entry>
+	<entry>
+		<title>Authentication</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/5-authentication"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/5-authentication</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The authentication plugins operate when users login to your site or administrator. The Joomla! authentication plugin is in operation by default but you can enable Gmail or LDAP or install a plugin for a different system. An example is included that may be used to create a new authentication plugin.&lt;/p&gt;
+&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Joomla &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Authentication_-_GMail&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default off:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gmail &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Authentication_-_GMail&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LDAP &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Authentication_-_LDAP&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The authentication plugins operate when users login to your site or administrator. The Joomla! authentication plugin is in operation by default but you can enable Gmail or LDAP or install a plugin for a different system. An example is included that may be used to create a new authentication plugin.&lt;/p&gt;
+&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Joomla &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Authentication_-_GMail&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default off:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gmail &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Authentication_-_GMail&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LDAP &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Authentication_-_LDAP&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Plugins" />
+	</entry>
+	<entry>
+		<title>Editors</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/14-editors"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/14-editors</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Editors are used thoughout Joomla! where content is created. TinyMCE is the default choice in most locations although CodeMirror is used in the template manager. No Editor provides a text box for html content.&lt;/p&gt;
+&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CodeMirror &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Editor_-_CodeMirror&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TinyMCE&lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Editor_-_TinyMCE&quot;&gt; Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;No Editor &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Editor_-_None&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default off:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Editors are used thoughout Joomla! where content is created. TinyMCE is the default choice in most locations although CodeMirror is used in the template manager. No Editor provides a text box for html content.&lt;/p&gt;
+&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CodeMirror &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Editor_-_CodeMirror&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TinyMCE&lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Editor_-_TinyMCE&quot;&gt; Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;No Editor &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Editor_-_None&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default off:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Plugins" />
+	</entry>
+	<entry>
+		<title>Editors-xtd</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/15-editors-xtd"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/15-editors-xtd</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;These plugins are the buttons found beneath your editor. They only run when an editor plugin runs.&lt;/p&gt;
+&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Editor Button: Image&lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Button_-_Image&quot;&gt; Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Editor Button: Readmore &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Button_-_Readmore&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Editor Button: Page Break &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Button_-_Pagebreak&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Editor Button: Article &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Button_-_Article&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default off:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;These plugins are the buttons found beneath your editor. They only run when an editor plugin runs.&lt;/p&gt;
+&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Editor Button: Image&lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Button_-_Image&quot;&gt; Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Editor Button: Readmore &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Button_-_Readmore&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Editor Button: Page Break &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Button_-_Pagebreak&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Editor Button: Article &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Button_-_Article&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default off:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Plugins" />
+	</entry>
+	<entry>
+		<title>Search </title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/41-search-plugin"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/41-search-plugin</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The search component uses plugins to control which parts of your Joomla! site are searched. You may choose to turn off some areas to improve performance or for other reasons. Many third party Joomla! extensions have search plugins that extend where search takes place.&lt;/p&gt;
+&lt;p&gt;Default On:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Content &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Search_-_Content&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Contacts &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Search_-_Contacts&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Weblinks &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Search_-_Weblinks&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;News Feeds &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Search_-_Newsfeeds&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Categories &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Search_-_Categories&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The search component uses plugins to control which parts of your Joomla! site are searched. You may choose to turn off some areas to improve performance or for other reasons. Many third party Joomla! extensions have search plugins that extend where search takes place.&lt;/p&gt;
+&lt;p&gt;Default On:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Content &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Search_-_Content&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Contacts &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Search_-_Contacts&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Weblinks &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Search_-_Weblinks&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;News Feeds &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Search_-_Newsfeeds&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Categories &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Search_-_Categories&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Plugins" />
+	</entry>
+	<entry>
+		<title>System</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/46-system"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/46-system</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;System plugins operate every time a page on your site loads. They control such things as your URLS, whether users can check a &quot;remember me&quot; box on the login module, and whether caching is enabled. New is the redirect plugin that together with the redirect component will assist you in managing changes in URLs.&lt;/p&gt;
+&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Remember me &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#System_-_Remember_Me&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SEF &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#System_-_SEF&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Debug &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#System_-_Debug&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default off:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cache &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#System_-_Cache&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Log &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#System_-_Log&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Redirect &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#System_-_Redirect&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;System plugins operate every time a page on your site loads. They control such things as your URLS, whether users can check a &quot;remember me&quot; box on the login module, and whether caching is enabled. New is the redirect plugin that together with the redirect component will assist you in managing changes in URLs.&lt;/p&gt;
+&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Remember me &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#System_-_Remember_Me&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SEF &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#System_-_SEF&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Debug &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#System_-_Debug&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default off:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cache &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#System_-_Cache&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Log &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#System_-_Log&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Redirect &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#System_-_Redirect&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Plugins" />
+	</entry>
+	<entry>
+		<title>User</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/51-user-plugins"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/51-user-plugins</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Joomla &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#User_-_Joomla.21&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default off:&lt;/p&gt;
+&lt;p&gt;Two new plugins are available but are disabled by default.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Contact Creator &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#User_-_Contact_Creator&quot;&gt;Help&lt;/a&gt;&lt;br /&gt;Creates a new linked contact record for each new user created.&lt;/li&gt;
+&lt;li&gt;Profile &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#User_-_Profile&quot;&gt;Help&lt;/a&gt;&lt;br /&gt;This example profile plugin allows you to insert additional fields into user registration and profile display. This is intended as an example of the types of extensions to the profile you might want to create.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Joomla &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#User_-_Joomla.21&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default off:&lt;/p&gt;
+&lt;p&gt;Two new plugins are available but are disabled by default.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Contact Creator &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#User_-_Contact_Creator&quot;&gt;Help&lt;/a&gt;&lt;br /&gt;Creates a new linked contact record for each new user created.&lt;/li&gt;
+&lt;li&gt;Profile &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#User_-_Profile&quot;&gt;Help&lt;/a&gt;&lt;br /&gt;This example profile plugin allows you to insert additional fields into user registration and profile display. This is intended as an example of the types of extensions to the profile you might want to create.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Plugins" />
+	</entry>
+	<entry>
+		<title>Content</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/62-content-plugins"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/25-sample-data-articles/joomla/extensions/plugins/62-content-plugins</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Content plugins run when specific kinds of pages are loaded. They do things ranging from protecting email addresses from harvesters to creating page breaks.&lt;/p&gt;
+&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Email Cloaking &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Content_-_Email_Cloaking&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Load Module &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Content_-_Load_Modules&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Page Break &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Content_-_Pagebreak&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Page Navigation&lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Content_-_Page_Navigation&quot;&gt; Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vote &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Content_-_Vote&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default off:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Code Highlighter (GeSHi) &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Content_-_Code_Highlighter_.28GeSHi.29&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Content plugins run when specific kinds of pages are loaded. They do things ranging from protecting email addresses from harvesters to creating page breaks.&lt;/p&gt;
+&lt;p&gt;Default on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Email Cloaking &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Content_-_Email_Cloaking&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Load Module &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Content_-_Load_Modules&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Page Break &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Content_-_Pagebreak&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Page Navigation&lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Content_-_Page_Navigation&quot;&gt; Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vote &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Content_-_Vote&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default off:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Code Highlighter (GeSHi) &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help17:Extensions_Plugin_Manager_Edit#Content_-_Code_Highlighter_.28GeSHi.29&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Plugins" />
+	</entry>
+</feed>

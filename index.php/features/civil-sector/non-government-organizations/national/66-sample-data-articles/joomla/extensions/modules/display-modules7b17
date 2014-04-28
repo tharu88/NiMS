@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">National</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk"/>
+	<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules</id>
+	<updated>2014-04-28T15:58:49+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Ministries</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/ministries"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/ministries</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;1. &lt;a href=&quot;http://www.health.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF HEALTH (MOH)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2. &lt;a href=&quot;http://www.agrimin.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF AGRICULTURE (MOA)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;3. &lt;a href=&quot;http://www.livestock.gov.lk&quot; target=&quot;_blank&quot;&gt;MINISTRY OF LIVESTOCK AND RURAL COMMUNITY DEVELOPMENT (MOL&amp;amp;RCD)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;4. &lt;a href=&quot;http://www.fisheries.gov.lk&quot; target=&quot;_blank&quot;&gt;MINISTRY OF FISHERIES AND AQUATIC RESOURCES (MOFAR)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;5. &lt;a href=&quot;http://www.med.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF ECONOMIC DEVELOPMENT (MOED)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;6. &lt;a href=&quot;http://www.moe.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF EDUCATION (MOE)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;7. &lt;a href=&quot;http://www.mwsd.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF WATER SUPPLY AND DRAINAGE (MOWS&amp;amp;D)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;8. &lt;a href=&quot;http://www.pclg.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF LOCAL GOVERNMENT AND PROVINCIAL COUNCILS (MOLG&amp;amp;PC)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;9. &lt;a href=&quot;http://www.media.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF MASS MEDIA (MOMM)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;10. &lt;a href=&quot;http://www.treasury.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF FINANCE AND PLANNING (MOFP)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;11. &lt;a href=&quot;http://www.childwomenmin.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF CHILD DEVELOPMENT AND WOMEN’S AFFAIRS (MOCDWA)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;12. &lt;a href=&quot;http://www.pubad.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF PUBLIC ADMINISTRATION (MOPA)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;13. &lt;a href=&quot;http://www.motr.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF TECHNOLOGY AND RESEARCH (MOTR)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;14. &lt;a href=&quot;http://www.trade.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF TRADE, MARKETING DEVELOPMENT, CO-OPERATIVES AND CONSUMER SERVICES (MOTMDCOCS)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;15. &lt;a href=&quot;http://www.labourmin.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF LABOUR RELATIONS AND MANPOWER (MOLR&amp;amp;M)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;16. &lt;a href=&quot;http://www.plantationindustries.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF PLANTATION INDUSTRIES (MOPI)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;1. &lt;a href=&quot;http://www.health.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF HEALTH (MOH)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;2. &lt;a href=&quot;http://www.agrimin.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF AGRICULTURE (MOA)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;3. &lt;a href=&quot;http://www.livestock.gov.lk&quot; target=&quot;_blank&quot;&gt;MINISTRY OF LIVESTOCK AND RURAL COMMUNITY DEVELOPMENT (MOL&amp;amp;RCD)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;4. &lt;a href=&quot;http://www.fisheries.gov.lk&quot; target=&quot;_blank&quot;&gt;MINISTRY OF FISHERIES AND AQUATIC RESOURCES (MOFAR)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;5. &lt;a href=&quot;http://www.med.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF ECONOMIC DEVELOPMENT (MOED)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;6. &lt;a href=&quot;http://www.moe.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF EDUCATION (MOE)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;7. &lt;a href=&quot;http://www.mwsd.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF WATER SUPPLY AND DRAINAGE (MOWS&amp;amp;D)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;8. &lt;a href=&quot;http://www.pclg.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF LOCAL GOVERNMENT AND PROVINCIAL COUNCILS (MOLG&amp;amp;PC)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;9. &lt;a href=&quot;http://www.media.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF MASS MEDIA (MOMM)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;10. &lt;a href=&quot;http://www.treasury.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF FINANCE AND PLANNING (MOFP)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;11. &lt;a href=&quot;http://www.childwomenmin.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF CHILD DEVELOPMENT AND WOMEN’S AFFAIRS (MOCDWA)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;12. &lt;a href=&quot;http://www.pubad.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF PUBLIC ADMINISTRATION (MOPA)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;13. &lt;a href=&quot;http://www.motr.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF TECHNOLOGY AND RESEARCH (MOTR)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;14. &lt;a href=&quot;http://www.trade.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF TRADE, MARKETING DEVELOPMENT, CO-OPERATIVES AND CONSUMER SERVICES (MOTMDCOCS)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;15. &lt;a href=&quot;http://www.labourmin.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF LABOUR RELATIONS AND MANPOWER (MOLR&amp;amp;M)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;16. &lt;a href=&quot;http://www.plantationindustries.gov.lk/&quot; target=&quot;_blank&quot;&gt;MINISTRY OF PLANTATION INDUSTRIES (MOPI)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Display Modules" />
+	</entry>
+	<entry>
+		<title>Custom HTML Module</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/12-custom-html-module"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/12-custom-html-module</id>
+		<author>
+			<name>Super User</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module allows you to create your own HTML Module using a WYSIWYG editor. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Custom_HTML&quot; title=&quot;Custom HTML Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule custom,Custom HTML}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module allows you to create your own HTML Module using a WYSIWYG editor. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Custom_HTML&quot; title=&quot;Custom HTML Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule custom,Custom HTML}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Display Modules" />
+	</entry>
+	<entry>
+		<title>Feed Display</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/16-feed-display"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/16-feed-display</id>
+		<author>
+			<name>Super User</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module allows the displaying of a syndicated feed. &lt;a href=&quot;http://docs.joomla.org/Help15:Screen.modulessite.edit.15#Feed_Display&quot; title=&quot;Feed Display Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule feed,Feed Display}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module allows the displaying of a syndicated feed. &lt;a href=&quot;http://docs.joomla.org/Help15:Screen.modulessite.edit.15#Feed_Display&quot; title=&quot;Feed Display Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule feed,Feed Display}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Display Modules" />
+	</entry>
+	<entry>
+		<title>Footer Module</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/19-footer-module"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/19-footer-module</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module shows the Joomla! copyright information. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Footer&quot; title=&quot;Footer Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule footer,Footer}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module shows the Joomla! copyright information. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Footer&quot; title=&quot;Footer Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule footer,Footer}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Display Modules" />
+	</entry>
+	<entry>
+		<title>Random Image Module</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/36-random-image-module"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/36-random-image-module</id>
+		<author>
+			<name>Super User</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module displays a random image from your chosen image directory. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Random_Image&quot; title=&quot;Random Image Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule random_image,Random Image}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module displays a random image from your chosen image directory. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Random_Image&quot; title=&quot;Random Image Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule random_image,Random Image}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Display Modules" />
+	</entry>
+	<entry>
+		<title>Weblinks Module</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/55-weblinks-module"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/66-sample-data-articles/joomla/extensions/modules/display-modules/55-weblinks-module</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module displays the list of weblinks in a category. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Weblinks&quot; title=&quot;Weblinks Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule weblinks,Weblinks}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module displays the list of weblinks in a category. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Weblinks&quot; title=&quot;Weblinks Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule weblinks,Weblinks}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Display Modules" />
+	</entry>
+</feed>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">National</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk"/>
+	<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/21-sample-data-articles/joomla/extensions/components</id>
+	<updated>2014-04-28T15:53:08+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/21-sample-data-articles/joomla/extensions/components?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Administrator Components</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/21-sample-data-articles/joomla/extensions/components/1-administrator-components"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/21-sample-data-articles/joomla/extensions/components/1-administrator-components</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;All components are also used in the administrator area of your website. In addition to the ones listed here, there are components in the administrator that do not have direct front end displays, but do help shape your site. The most important ones for most users are&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Media Manager&lt;/li&gt;
+&lt;li&gt;Extensions Manager&lt;/li&gt;
+&lt;li&gt;Menu Manager&lt;/li&gt;
+&lt;li&gt;Global Configuration&lt;/li&gt;
+&lt;li&gt;Banners&lt;/li&gt;
+&lt;li&gt;Redirect&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr title=&quot;Media Manager&quot; alt=&quot;Media Manager&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Media Manager&lt;/h3&gt;
+&lt;p&gt;The media manager component lets you upload and insert images into content throughout your site. Optionally, you can enable the flash uploader which will allow you to to upload multiple images. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Content_Media_Manager&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;hr title=&quot;Extensions Manager&quot; alt=&quot;Extensions Manager&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;h3&gt;Extensions Manager&lt;/h3&gt;
+&lt;p&gt;The extensions manager lets you install, update, uninstall and manage all of your extensions. The extensions manager has been extensively redesigned, although the core install and uninstall functionality remains the same as in Joomla! 1.5. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Extension_Manager_Install&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;hr title=&quot;Menu Manager&quot; alt=&quot;Menu Manager&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;h3&gt;Menu Manager&lt;/h3&gt;
+&lt;p&gt;The menu manager lets you create the menus you see displayed on your site. It also allows you to assign modules and template styles to specific menu links. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Menus_Menu_Manager&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;hr title=&quot;Global Configuration&quot; alt=&quot;Global Configuration&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;h3&gt;Global Configuration&lt;/h3&gt;
+&lt;p&gt;The global configuration is where the site administrator configures things such as whether search engine friendly urls are enabled, the site meta data (descriptive text used by search engines and indexers) and other functions. For many beginning users simply leaving the settings on default is a good way to begin, although when your site is ready for the public you will want to change the meta data to match its content. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Site_Global_Configuration&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;hr title=&quot;Banners&quot; alt=&quot;Banners&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;h3&gt;Banners&lt;/h3&gt;
+&lt;p&gt;The banners component provides a simple way to display a rotating image in a module and, if you wish to have advertising, a way to track the number of times an image is viewed and clicked. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Components_Banners_Banners_Edit&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;hr title=&quot;Redirect&quot; class=&quot;system-pagebreak&quot; /&gt;
+&lt;h3&gt;&lt;br /&gt;Redirect&lt;/h3&gt;
+&lt;p&gt;The redirect component is used to manage broken links that produce Page Not Found (404) errors. If enabled it will allow you to redirect broken links to specific pages. It can also be used to manage migration related URL changes. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Components_Redirect_Manager&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;All components are also used in the administrator area of your website. In addition to the ones listed here, there are components in the administrator that do not have direct front end displays, but do help shape your site. The most important ones for most users are&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Media Manager&lt;/li&gt;
+&lt;li&gt;Extensions Manager&lt;/li&gt;
+&lt;li&gt;Menu Manager&lt;/li&gt;
+&lt;li&gt;Global Configuration&lt;/li&gt;
+&lt;li&gt;Banners&lt;/li&gt;
+&lt;li&gt;Redirect&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr title=&quot;Media Manager&quot; alt=&quot;Media Manager&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Media Manager&lt;/h3&gt;
+&lt;p&gt;The media manager component lets you upload and insert images into content throughout your site. Optionally, you can enable the flash uploader which will allow you to to upload multiple images. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Content_Media_Manager&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;hr title=&quot;Extensions Manager&quot; alt=&quot;Extensions Manager&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;h3&gt;Extensions Manager&lt;/h3&gt;
+&lt;p&gt;The extensions manager lets you install, update, uninstall and manage all of your extensions. The extensions manager has been extensively redesigned, although the core install and uninstall functionality remains the same as in Joomla! 1.5. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Extension_Manager_Install&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;hr title=&quot;Menu Manager&quot; alt=&quot;Menu Manager&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;h3&gt;Menu Manager&lt;/h3&gt;
+&lt;p&gt;The menu manager lets you create the menus you see displayed on your site. It also allows you to assign modules and template styles to specific menu links. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Menus_Menu_Manager&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;hr title=&quot;Global Configuration&quot; alt=&quot;Global Configuration&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;h3&gt;Global Configuration&lt;/h3&gt;
+&lt;p&gt;The global configuration is where the site administrator configures things such as whether search engine friendly urls are enabled, the site meta data (descriptive text used by search engines and indexers) and other functions. For many beginning users simply leaving the settings on default is a good way to begin, although when your site is ready for the public you will want to change the meta data to match its content. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Site_Global_Configuration&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;hr title=&quot;Banners&quot; alt=&quot;Banners&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;h3&gt;Banners&lt;/h3&gt;
+&lt;p&gt;The banners component provides a simple way to display a rotating image in a module and, if you wish to have advertising, a way to track the number of times an image is viewed and clicked. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Components_Banners_Banners_Edit&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;hr title=&quot;Redirect&quot; class=&quot;system-pagebreak&quot; /&gt;
+&lt;h3&gt;&lt;br /&gt;Redirect&lt;/h3&gt;
+&lt;p&gt;The redirect component is used to manage broken links that produce Page Not Found (404) errors. If enabled it will allow you to redirect broken links to specific pages. It can also be used to manage migration related URL changes. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Components_Redirect_Manager&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Components" />
+	</entry>
+	<entry>
+		<title>Contacts</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/21-sample-data-articles/joomla/extensions/components/9-contact"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/21-sample-data-articles/joomla/extensions/components/9-contact</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The contact component provides a way to provide contact forms and information for your site or to create a complex directory that can be used for many different purposes. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Components_Contacts_Contacts&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The contact component provides a way to provide contact forms and information for your site or to create a complex directory that can be used for many different purposes. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Components_Contacts_Contacts&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Components" />
+	</entry>
+	<entry>
+		<title>Contact Us</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/contact-us"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/contact-us</id>
+		<author>
+			<name>Super User</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;For further information please contact; &lt;br /&gt;National Nutrition Secretariat of Sri Lanka&lt;br /&gt;Presidential Secretariat&lt;br /&gt;Colombo 01&lt;br /&gt;Sri Lanka&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Telephone: +94 112 354425&amp;nbsp;– +94 0112 354354 ext. 3192 /3650&lt;br /&gt;Fax: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +94 112 399418&lt;br /&gt;E mail: &lt;a href=&quot;mailto:srilanka.nutrition@gmail.com&quot;&gt;srilanka.nutrition@gmail.com&lt;/a&gt;&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;For further information please contact; &lt;br /&gt;National Nutrition Secretariat of Sri Lanka&lt;br /&gt;Presidential Secretariat&lt;br /&gt;Colombo 01&lt;br /&gt;Sri Lanka&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Telephone: +94 112 354425&amp;nbsp;– +94 0112 354354 ext. 3192 /3650&lt;br /&gt;Fax: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +94 112 399418&lt;br /&gt;E mail: &lt;a href=&quot;mailto:srilanka.nutrition@gmail.com&quot;&gt;srilanka.nutrition@gmail.com&lt;/a&gt;&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Components" />
+	</entry>
+	<entry>
+		<title>Search</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/21-sample-data-articles/joomla/extensions/components/39-search-component"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/21-sample-data-articles/joomla/extensions/components/39-search-component</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Joomla! 2.5 offers two search options.&lt;/p&gt;
+&lt;p&gt;The Basic Search component provides basic search functionality for the information contained in your core components. Many extensions can also be searched by the search component. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Components_Search&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Smart Search component offers searching similar to that found in major search engines. Smart Search is disabled by default. If you choose to enable it you will need to take several steps. First, enable the Smart Search Plugin in the plugin manager. Then, if you are using the Basic Search Module replace it with the Smart Search Module. Finally, if you have already created content, go to the Smart Search component in your site administrator and click the Index icon. Once indexing of your content is complete, Smart Search will be ready to use. Help.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Joomla! 2.5 offers two search options.&lt;/p&gt;
+&lt;p&gt;The Basic Search component provides basic search functionality for the information contained in your core components. Many extensions can also be searched by the search component. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Components_Search&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Smart Search component offers searching similar to that found in major search engines. Smart Search is disabled by default. If you choose to enable it you will need to take several steps. First, enable the Smart Search Plugin in the plugin manager. Then, if you are using the Basic Search Module replace it with the Smart Search Module. Finally, if you have already created content, go to the Smart Search component in your site administrator and click the Index icon. Once indexing of your content is complete, Smart Search will be ready to use. Help.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Components" />
+	</entry>
+	<entry>
+		<title>Users</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/21-sample-data-articles/joomla/extensions/components/52-users-component"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/21-sample-data-articles/joomla/extensions/components/52-users-component</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The users extension lets your site visitors register, login and logout, change their passwords and other information, and recover lost passwords. In the administrator it allows you to create, block and manage users and create user groups and access levels. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Users_User_Manager&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please note that some of the user views will not display if you are not logged-in to the site.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The users extension lets your site visitors register, login and logout, change their passwords and other information, and recover lost passwords. In the administrator it allows you to create, block and manage users and create user groups and access levels. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Users_User_Manager&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please note that some of the user views will not display if you are not logged-in to the site.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Components" />
+	</entry>
+	<entry>
+		<title>Weblinks</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/21-sample-data-articles/joomla/extensions/components/54-weblinks"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/21-sample-data-articles/joomla/extensions/components/54-weblinks</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Weblinks (com_weblinks) is a component that provides a structured way to organize external links and present them in a visually attractive, consistent and informative way. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Components_Weblinks_Links&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Weblinks (com_weblinks) is a component that provides a structured way to organize external links and present them in a visually attractive, consistent and informative way. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Components_Weblinks_Links&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Components" />
+	</entry>
+	<entry>
+		<title>News Feeds</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/21-sample-data-articles/joomla/extensions/components/60-news-feeds"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/21-sample-data-articles/joomla/extensions/components/60-news-feeds</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;News Feeds (com_newsfeeds) provides a way to organize and present news feeds. News feeds are a way that you present information from another site on your site. For example, the joomla.org website has numerous feeds that you can incorporate on your site. You an use menus to present a single feed, a list of feeds in a category, or a list of all feed categories. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Components_Newsfeeds_Feeds&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;News Feeds (com_newsfeeds) provides a way to organize and present news feeds. News feeds are a way that you present information from another site on your site. For example, the joomla.org website has numerous feeds that you can incorporate on your site. You an use menus to present a single feed, a list of feeds in a category, or a list of all feed categories. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Components_Newsfeeds_Feeds&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Components" />
+	</entry>
+</feed>

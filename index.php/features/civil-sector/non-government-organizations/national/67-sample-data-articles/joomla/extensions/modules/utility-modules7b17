@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/system/css/modal.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">National</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk"/>
+	<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/67-sample-data-articles/joomla/extensions/modules/utility-modules</id>
+	<updated>2014-04-28T15:58:57+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/67-sample-data-articles/joomla/extensions/modules/utility-modules?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Smart Search</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/67-sample-data-articles/joomla/extensions/modules/utility-modules/70-smart-search"/>
+		<published>2012-01-16T22:12:36+00:00</published>
+		<updated>2012-01-16T22:12:36+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/67-sample-data-articles/joomla/extensions/modules/utility-modules/70-smart-search</id>
+		<author>
+			<name>Super User</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module provides search using the Smart Search component. You should only use it if you have indexed your content and either have enabled the Smart Search content plugin or are keeping the index of your site updated manually. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help25:Extensions_Module_Manager_Smart_Search&quot;&gt;Help&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule finder,Smart Search}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module provides search using the Smart Search component. You should only use it if you have indexed your content and either have enabled the Smart Search content plugin or are keeping the index of your site updated manually. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;amp;keyref=Help25:Extensions_Module_Manager_Smart_Search&quot;&gt;Help&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule finder,Smart Search}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Utility Modules" />
+	</entry>
+	<entry>
+		<title>Language Switcher</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/67-sample-data-articles/joomla/extensions/modules/utility-modules/26-language-switcher"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/67-sample-data-articles/joomla/extensions/modules/utility-modules/26-language-switcher</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The language switcher module allows you to take advantage of the language tags that are available when content, modules and menu links are created.&lt;/p&gt;
+&lt;p&gt;This module displays a list of available Content Languages for switching between them.&lt;/p&gt;
+&lt;p&gt;When switching languages, it redirects to the Home page, or associated menu item, defined for the chosen language. Thereafter, the navigation will be the one defined for that language.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The language filter plugin must be enabled for this module to work properly.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt; &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Language_Switcher&quot; title=&quot;Language Switcher Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To view an example of the language switch moduler module, go to the site administrator and enable the language filter plugin and the language switcher module labelled &quot;language switcher&quot; and visit the fruit shop or park sample sites. Then follow&lt;a href=&quot;http://docs.joomla.org/Language_Switcher_Tutorial_for_Joomla_1.6&quot;&gt; the instructions in this tutorial&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The language switcher module allows you to take advantage of the language tags that are available when content, modules and menu links are created.&lt;/p&gt;
+&lt;p&gt;This module displays a list of available Content Languages for switching between them.&lt;/p&gt;
+&lt;p&gt;When switching languages, it redirects to the Home page, or associated menu item, defined for the chosen language. Thereafter, the navigation will be the one defined for that language.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The language filter plugin must be enabled for this module to work properly.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt; &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Language_Switcher&quot; title=&quot;Language Switcher Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To view an example of the language switch moduler module, go to the site administrator and enable the language filter plugin and the language switcher module labelled &quot;language switcher&quot; and visit the fruit shop or park sample sites. Then follow&lt;a href=&quot;http://docs.joomla.org/Language_Switcher_Tutorial_for_Joomla_1.6&quot;&gt; the instructions in this tutorial&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Utility Modules" />
+	</entry>
+	<entry>
+		<title>Search Module</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/67-sample-data-articles/joomla/extensions/modules/utility-modules/40-search-module"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/67-sample-data-articles/joomla/extensions/modules/utility-modules/40-search-module</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module will display a search box. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Search&quot; title=&quot;Search&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule search,Search}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module will display a search box. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Search&quot; title=&quot;Search&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule search,Search}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Utility Modules" />
+	</entry>
+	<entry>
+		<title>Statistics Module</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/67-sample-data-articles/joomla/extensions/modules/utility-modules/44-statistics"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/67-sample-data-articles/joomla/extensions/modules/utility-modules/44-statistics</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module shows information about your server installation together with statistics on the Web site users, number of Articles in your database and the number of Web links you provide.&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule mod_stats,Statistics}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module shows information about your server installation together with statistics on the Web site users, number of Articles in your database and the number of Web links you provide.&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule mod_stats,Statistics}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Utility Modules" />
+	</entry>
+	<entry>
+		<title>Syndicate Module</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/67-sample-data-articles/joomla/extensions/modules/utility-modules/45-syndicate-module"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/67-sample-data-articles/joomla/extensions/modules/utility-modules/45-syndicate-module</id>
+		<author>
+			<name>Super User</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The syndicate module will display a link that allows users to take a feed from your site. It will only display on pages for which feeds are possible. That means it will not display on single article, contact or weblinks pages, such as this one. &lt;a href=&quot;http://docs.joomla.org/Help15:Screen.modulessite.edit.15#Syndicate&quot; title=&quot;Synicate Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadposition syndicate,Syndicate}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The syndicate module will display a link that allows users to take a feed from your site. It will only display on pages for which feeds are possible. That means it will not display on single article, contact or weblinks pages, such as this one. &lt;a href=&quot;http://docs.joomla.org/Help15:Screen.modulessite.edit.15#Syndicate&quot; title=&quot;Synicate Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadposition syndicate,Syndicate}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Utility Modules" />
+	</entry>
+	<entry>
+		<title>Wrapper Module</title>
+		<link rel="alternate" type="text/html" href="http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/67-sample-data-articles/joomla/extensions/modules/utility-modules/59-wrapper-module"/>
+		<published>2010-12-31T18:30:01+00:00</published>
+		<updated>2010-12-31T18:30:01+00:00</updated>
+		<id>http://www.nutrition.gov.lk/index.php/features/civil-sector/non-government-organizations/national/67-sample-data-articles/joomla/extensions/modules/utility-modules/59-wrapper-module</id>
+		<author>
+			<name>Joomla!</name>
+			<email>ranmalprasad@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module shows an iFrame window to specified location. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Wrapper&quot; title=&quot;Wrapper Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule wrapper,Wrapper}&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This module shows an iFrame window to specified location. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Wrapper&quot; title=&quot;Wrapper Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule wrapper,Wrapper}&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Utility Modules" />
+	</entry>
+</feed>
