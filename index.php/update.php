@@ -93,7 +93,76 @@ $('.mydiv').slideDown( "slow" );
 }
 
 </script>
+<script>
+$( document ).ready(function() {
+	
+	
+	$('#check').change(function () {
+		if ($(this).attr("checked")) 
+		{
+			$('.mydiv3').slideDown( "slow" );
+			return;
+		}
+	   $('.mydiv3').slideUp( "slow" );
+	});
+	
+	$('#check2').change(function () {
+		if ($(this).attr("checked")) 
+		{
+			$('.mydiv4').slideDown( "slow" );
+			return;
+		}
+	   $('.mydiv4').slideUp( "slow" );
+	});
+	
+	$('#check3').change(function () {
+		if ($(this).attr("checked")) 
+		{
+			$('.mydiv5').slideDown( "slow" );
+			return;
+		}
+	   $('.mydiv5').slideUp( "slow" );
+	});
+	
+	$('#check4').change(function () {
+		if ($(this).attr("checked")) 
+		{
+			$('.mydiv6').slideDown( "slow" );
+			return;
+		}
+	   $('.mydiv6').slideUp( "slow" );
+	});
+	
+	$('#check5').change(function () {
+		if ($(this).attr("checked")) 
+		{
+			$('.mydiv7').slideDown( "slow" );
+			return;
+		}
+	   $('.mydiv7').slideUp( "slow" );
+	});
+	
+	$('#check6').change(function () {
+		if ($(this).attr("checked")) 
+		{
+			$('.mydiv8').slideDown( "slow" );
+			return;
+		}
+	   $('.mydiv8').slideUp( "slow" );
+	});
+	
+	$('#check7').change(function () {
+		if ($(this).attr("checked")) 
+		{
+			$('.mydiv9').slideDown( "slow" );
+			return;
+		}
+	   $('.mydiv9').slideUp( "slow" );
+	});
 
+});
+
+</script>
 </head>
 <body id="ot-body" onload="asd(1)" class="isInnerPages green left-content-right" >
 	<div class="ot-wrap">
@@ -161,18 +230,138 @@ $('.mydiv').slideDown( "slow" );
 Registration No : <input type="text" name="regNo" /><input style="width:100px;" type="button" value="OK" onclick="myFunction()"/>
 <br/>
 </form>
-
-
-
-
-
-<div class="mydiv">
+<div class="mydiv" align="left">
 <form id="asd" action="update.php">
-	Select the month : <input type="text" name="month" />
-	Weight : <input type="text" name="weight" />  	Code : <input type="text" name="c_weight" /> 
-	Height : <input type="text" name="height" /> 	Code : <input type="text" name="c_height" />                                          
-<br/>
-	Problem : 
+	Select the month : <select>
+  <option value="1" name="month_1">1</option>
+  <option value="2" name="month_2">2</option>
+  <option value="3" name="month_3">3</option>
+  <option value="4" name="month_4">4</option>
+  <option value="5" name="month_5">5</option>
+  <option value="6" name="month_6">6</option>
+  <option value="7" name="month_7">7</option>
+  <option value="8" name="month_8">8</option>
+  <option value="9" name="month_9">9</option>
+  <option value="10" name="month_10">10</option>
+  <option value="11" name="month_11">11</option>
+  <option value="12" name="month_12">12</option>
+  <option value="13" name="month_13">13</option>
+  <option value="14" name="month_14">14</option>
+  <option value="15" name="month_15">15</option>
+  <option value="16" name="month_16">16</option>
+  <option value="17" name="month_17">17</option>
+  <option value="18" name="month_18">18</option>
+  <option value="19" name="month_19">19</option>
+  <option value="20" name="month_20">20</option>
+  <option value="21" name="month_11">21</option>
+  <option value="22" name="month_12">22</option>
+  <option value="23" name="month_13">23</option>
+  <option value="24" name="month_14">24</option>
+  <option value="25" name="month_15">25</option>
+  <option value="26" name="month_16">26</option>
+  <option value="27" name="month_17">27</option>
+  <option value="28" name="month_18">28</option>
+  <option value="29" name="month_19">29</option>
+  <option value="30" name="month_20">30</option>
+  <option value="31" name="month_31">31</option>
+  <option value="32" name="month_32">32</option>
+  <option value="33" name="month_33">33</option>
+  <option value="34" name="month_34">34</option>
+  <option value="35" name="month_35">35</option>
+  <option value="36" name="month_36">36</option>
+  <option value="37" name="month_37">37</option>
+  <option value="38" name="month_38">38</option>
+  <option value="39" name="month_39">39</option>
+  <option value="40" name="month_40">40</option>
+  <option value="41" name="month_41">41</option>
+  <option value="42" name="month_42">42</option>
+  <option value="43" name="month_43">43</option>
+  <option value="44" name="month_44">44</option>
+  <option value="45" name="month_45">45</option>
+  <option value="46" name="month_46">46</option>
+  <option value="47" name="month_47">47</option>
+  <option value="48" name="month_48">48</option>
+  <option value="49" name="month_49">49</option>
+  <option value="50" name="month_50">50</option>
+  <option value="51" name="month_51">51</option>
+  <option value="52" name="month_52">52</option>
+  <option value="53" name="month_53">53</option>
+  <option value="54" name="month_54">54</option>
+  <option value="55" name="month_55">55</option>
+  <option value="56" name="month_56">56</option>
+  <option value="57" name="month_57">57</option>
+  <option value="58" name="month_58">58</option>
+  <option value="59" name="month_59">59</option>
+  <option value="60" name="month_60">60</option>
+</select><br/>
+	Weight           : <input type="text" name="weight" />  	Code :  <select>
+  <option value="N" name="N">N</option>
+  <option value="X" name="X">X</option>
+  <option value="XX" name="XX">XX</option>
+  <option value="OW" name="OW">OW</option>
+  </select><br/>
+	Height           : <input type="text" name="height" />       Code :  <select>
+  <option value="NH" name="NH">NH</option>
+  <option value="S" name="S">S</option>
+  <option value="SS" name="SS">SS</option>
+  </select> <br/>                                         
+	<h3>Malnutrition root causes : </h3> <br/>     
+    <input type="checkbox" id="check"><label>Poverty or poor income management</label>    
+<div class="mydiv3">   
+    <input type="checkbox" class="check"><label>Low income</label>
+    <input type="checkbox" class="check"><label>Poor financial management</label>  
+    <input type="checkbox" class="check"><label>Limited opportunity for income generation within agriculture settings</label>    
+    <input type="checkbox" class="check"><label>Any constrains in obtaining a loan</label>   
+</div>    
+    <input type="checkbox" id="check2"><label>Inadequate child care</label>    
+<div class="mydiv4">   
+    <input type="checkbox" class="check"><label>Both parents are working and do not have time to spend with the children</label>
+    <input type="checkbox" class="check"><label>Poor knowledge on early child care development on care givers</label>  
+    <input type="checkbox" class="check"><label>Poor knowledge on ECCD among service providers</label>    
+    <input type="checkbox" class="check"><label>Unavailability of minimum play materials</label> 
+    <input type="checkbox" class="check"><label>Absence of age appropriate immunization</label> 
+    <input type="checkbox" class="check"><label>Teenage pregnancy</label>   
+</div>  
+    <input type="checkbox" id="check3"><label>Poor child feeding practices</label>    
+<div class="mydiv5">   
+    <input type="checkbox" class="check"><label>Inadequate quantity per meals</label>
+    <input type="checkbox" class="check"><label>Poor quality of meals</label>  
+    <input type="checkbox" class="check"><label>Inadequate frequency of feeding</label>    
+    <input type="checkbox" class="check"><label>Poor knowledge on obtaining nutritious food within the available resources</label> 
+    <input type="checkbox" class="check"><label>False believes and myths</label> 
+    <input type="checkbox" class="check"><label>Poor knowledge of feeding during illness</label>
+    <input type="checkbox" class="check"><label>Poor knowledge and attitudes towards nutrition</label>   
+</div>    
+    <input type="checkbox" id="check4"><label>High prevalence of communicable diseases</label>    
+<div class="mydiv6">   
+    <input type="checkbox" class="check"><label>Subjected to respiratory infection frequently</label>  
+    <input type="checkbox" class="check"><label>Subjected to diarrhea diseases frequently</label>    
+    <input type="checkbox" class="check"><label>Subjected to fever frequently</label>   
+</div>  
+    <input type="checkbox" id="check5"><label>Low food security</label>    
+<div class="mydiv7">   
+    <input type="checkbox" class="check"><label>No home gardening</label>
+    <input type="checkbox" class="check"><label>Non consumption of foods from home gardening or backyard farming</label>  
+    <input type="checkbox" class="check"><label>Inadiquate allocation money for foods</label>    
+    <input type="checkbox" class="check"><label>Poor harvest from agriculture and livestock</label> 
+    <input type="checkbox" class="check"><label>Poor knowledge and attitudes towards food preparation and preservation</label> 
+    <input type="checkbox" class="check"><label>Inadequate preventive measures for protecting harvest</label>
+    <input type="checkbox" class="check"><label>One or both parent consuming excessive alcohol or smoking</label>
+    <input type="checkbox" class="check"><label>Spending higher proportion of income to alcohol</label> 
+    <input type="checkbox" class="check"><label>Domestic violence/abuse due to alcohol and smoking</label>   
+</div> 
+    <input type="checkbox" id="check6"><label>Inadequate water and sanitation</label>    
+<div class="mydiv8">   
+    <input type="checkbox" class="check"><label>Unavailability safe water supply</label>  
+    <input type="checkbox" class="check"><label>Unavailability sanitation</label>   
+</div> 
+    <input type="checkbox" id="check7"><label>Poor nutrition knowledge</label>    
+<div class="mydiv9"> 
+    <input type="checkbox" class="check"><label>Poor knowledge and attitudes towards nutrition</label>  
+    <input type="checkbox" class="check"><label>Poor knowledge on using appropriate food for family members</label>    
+    <input type="checkbox" class="check"><label>False believes ,myths and customs</label>   
+</div> 
+                                                     <input type="submit" value="Submit" style="width:100px; align:right"/> 
 </form>
 </div>
 

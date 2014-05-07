@@ -84,7 +84,14 @@ div.ot-widthTemp {width: 960px;}
 		});
 var K2SitePath = '../../../../../index.html';
   </script>
+	<script type="text/javascript">
+   $(function()
+                {
+                         $("#datepicker").datepicker();
+                         $("#icon").click(function() { $("#datepicker").datepicker( "show" );})
+                 });
 
+</script>
 </head>
 <body id="ot-body" class="isInnerPages green left-content-right">
 	<div class="ot-wrap">
@@ -149,10 +156,10 @@ var K2SitePath = '../../../../../index.html';
 <pre>
 
 <h1 align="center">Basic Details</h1>
-<form action="NiMS.html">
+<form action="NiMS.php" method="POST">
 <strong>Registration No:</strong> <input type="text" value="" name="reg" /><br/>
 <strong>Name:</strong>            <input type="text" value="" name="name" /><br/>
-<strong>Birthday :</strong>       <input type="text" value="" name="birthday" /><br/>
+<strong>Birthday :</strong>       <input style="width:150px;" type="date" id="datepicker" name='birthday' size='9' value="" /><br/>
 <strong>Weight at Birth:</strong> <input type="text" value="" name="b_weight" /><br/>
 <strong>Length at Birth:</strong> <input type="text" value="" name="b_length" /><br/>
 <input style="width:100px;" type="submit" value="Submit" />

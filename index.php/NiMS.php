@@ -1,5 +1,24 @@
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ <?php 
+        $db = pg_connect('host=localhost dbname=NiMS user=postgres password=tharu'); 
+
+        $regnumber = pg_escape_string($_POST['reg']); 
+        $name = pg_escape_string($_POST['name']); 
+        $birthday = pg_escape_string($_POST['birthday']); 
+		$b_weight = pg_escape_string($_POST['b_weight']); 
+		$b_length = pg_escape_string($_POST['b_length']); 
+		
+        $query = "INSERT INTO basic_details(reg, name, birthday, b_weight, b_length) VALUES('" . $regnumber . "', '" . $name . "', '" . $birthday . "', '" . $b_weight . "', '" . $b_length . "')";
+        $result = pg_query($query); 
+        if (!$result) { 
+            $errormessage = pg_last_error(); 
+            echo "Error with query: " . $errormessage; 
+            exit(); 
+        } 
+        
+        pg_close(); 
+        ?>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
 
 <!-- Mirrored from www.nutrition.gov.lk/index.php/component/k2/itemlist/category/13-poverty-alleviation by HTTrack Website Copier/3.x [XR&CO'2013], Mon, 28 Apr 2014 15:46:55 GMT -->
