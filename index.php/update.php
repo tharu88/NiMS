@@ -5,17 +5,8 @@
 <!-- Mirrored from www.nutrition.gov.lk/index.php/component/k2/itemlist/category/13-poverty-alleviation by HTTrack Website Copier/3.x [XR&CO'2013], Mon, 28 Apr 2014 15:46:55 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-<script type="text/javascript">
-function asd(a)
-{
-    if(a==1)
-    document.getElementById("asd").style.display="none";
-    else if(a==2)
-    document.getElementById("asd").style.display="block";
-}
 
-</script>
-	  <base  />
+	 
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="og:url" content="13-poverty-alleviation.html" />
   <meta name="og:title" content="Poverty Alleviation" />
@@ -29,6 +20,8 @@ function asd(a)
   <link rel="stylesheet" href="http://www.nutrition.gov.lk/templates/system/css/general.css" type="text/css" />
   <link rel="stylesheet" href="http://www.nutrition.gov.lk/templates/ot_spasalon/css/template.css" type="text/css" />
   <link rel="stylesheet" href="http://www.nutrition.gov.lk/templates/ot_spasalon/css/layout/green.css" type="text/css" />
+  
+  <link rel="stylesheet" type="text/css" href="sample.css">
   <style type="text/css">
 div.ot-widthTemp {width: 960px;}
 
@@ -68,12 +61,15 @@ div.ot-widthTemp {width: 960px;}
   <script src="http://www.nutrition.gov.lk/media/system/js/mootools-core.js" type="text/javascript"></script>
   <script src="http://www.nutrition.gov.lk/media/system/js/core.js" type="text/javascript"></script>
   <script src="http://www.nutrition.gov.lk/media/system/js/modal.js" type="text/javascript"></script>
-  <script src="../../../../../../ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+ 
   <script src="http://www.nutrition.gov.lk/media/k2/assets/js/k2.noconflict.js" type="text/javascript"></script>
   <script src="http://www.nutrition.gov.lk/components/com_k2/js/k2.js" type="text/javascript"></script>
   <script src="http://www.nutrition.gov.lk/media/system/js/mootools-more.js" type="text/javascript"></script>
   <script src="http://www.nutrition.gov.lk/templates/ot_spasalon/scripts/dropdownMenu.js" type="text/javascript"></script>
   <script src="http://www.nutrition.gov.lk/templates/ot_spasalon/scripts/otscript.js" type="text/javascript"></script>
+  
+  <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
   <script type="text/javascript">
 
 		window.addEvent('domready', function() {
@@ -85,6 +81,18 @@ div.ot-widthTemp {width: 960px;}
 		});
 var K2SitePath = '../../../../../index.html';
   </script>
+  
+  
+  <script type="text/javascript">
+
+function myFunction()
+{
+
+$('.mydiv').slideDown( "slow" );
+			return;
+}
+
+</script>
 
 </head>
 <body id="ot-body" onload="asd(1)" class="isInnerPages green left-content-right" >
@@ -149,18 +157,26 @@ var K2SitePath = '../../../../../index.html';
 <!-- Start of body -->
 <pre>
 <h1 align="center">Update Details</h1>
-<form action="update.php">
-Registration No : <input type="text" name="regNo" /><input style="width:100px;" type="submit" value="OK" onclick="asd(2)"/>
+<form action="">
+Registration No : <input type="text" name="regNo" /><input style="width:100px;" type="button" value="OK" onclick="myFunction()"/>
 <br/>
 </form>
-<div>
-<form id="asd" action="update.php">Select the month : <input type="text" name="month" />
-                                        Weight : <input type="text" name="weight" /> Code : <input type="text" name="c_weight" /> 
-                                                       Height : <input type="text" name="height" /> Code : <input type="text" name="c_height" />                                          
+
+
+
+
+
+<div class="mydiv">
+<form id="asd" action="update.php">
+	Select the month : <input type="text" name="month" />
+	Weight : <input type="text" name="weight" />  	Code : <input type="text" name="c_weight" /> 
+	Height : <input type="text" name="height" /> 	Code : <input type="text" name="c_height" />                                          
 <br/>
-Problem : 
+	Problem : 
 </form>
 </div>
+
+
 </pre>
 
         
